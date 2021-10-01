@@ -25,7 +25,7 @@
 <div style="padding: 20px 0">
     <h1> CONTACTA CONMIGO</h1>
     <p style="font-size: 20px"> Te dejo algunos datos que podrían servirte para ponernos en contacto, sea por alguna duda o simplemente para decir HOLA !!!.</p>
-    <div style="">
+    <div style="diplay: flex; flex-direcction: row; align-items: center; justify-content: space-around">
         <a href="https://www.linkedin.com/in/daniel-full-stack/" target="_blank" style="text-decoration: none, color: #000, float: left">
             <img src="./assets/linkeding_png.png" height="40px" style="float: left; margin-right: 10px"/> </p>
         </a>
