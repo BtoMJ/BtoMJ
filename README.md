@@ -1,3 +1,12 @@
+<style type="text/css">
+.Red{
+    float: left;
+}
+.Link{
+    float: left;
+}
+
+</style>
 <img src="./assets/head.jpg"/>
 
 <div style="padding: 20px 0">
@@ -8,10 +17,26 @@
 </div>
 
 <div style="padding: 20px 0">
-    <h1> ¿QUÉ ESTOY HACIENDO ?</h1>
+    <h1> ¿QUÉ ESTOY HACIENDO?</h1>
     <p style="font-size: 20px"> En equipo estamos realizando un App para vender ticket de cine tanto de manera presencial como para ver en casa.</br>
     De primera mano nos muestra un pequeño carrusel con películas relevantes y un catálogo de todo lo que hay disponible para ver.
     En cuanto quede lista subiré el Repo para qye puedan darle un vistazo.</p>
+</div>
+
+<div style="padding: 20px 0">
+    <h1> ¿QUÉ HE HECHO?</h1>
+    <p style="font-size: 20px"> En los últimos años me he desempeñado como <b>diseñador gráfico</b> creando publicidad impresa y digital para varias empresas.</br>
+    Desde gráficos para redes sociales, hasta catálogos impresos y videos promocionales realizados con <b>After Effects</b>, un potente software de animación de Adobe.</br>
+    He tomado cursos de <b>Romans CAD</b> para aprender a desarrollar calzado por computadora, siendo ésta mi última actividad en la que duré 4 años completos.</br>
+    En materia web he realizado algunos sitios de los cuales tengo varios repos aquí en GitHub.</p>
+</div>
+
+<div style="padding: 20px 0">
+    <h1> PARA CONTACTAR CONMIGO</h1>
+    <p style="font-size: 20px"> Te dejo algunos datos que podrían servirte para ponernos en contacto, sea por alguna duda o simplemente para decir HOLA !!!.</p>
+    <div className="Red">
+        <a className="Link" href="https://www.linkedin.com/in/daniel-full-stack/" target="_blank"><img src="./assets/linkeding_png.png" height="30px" /><h2>Linkedin</h2></a>
+    </div>
 </div>
 
 
