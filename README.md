@@ -27,13 +27,13 @@
     <p style="font-size: 20px"> Te dejo algunos datos que podrían servirte para ponernos en contacto, sea por alguna duda o simplemente para decir HOLA !!!.</p>
     <div style="diplay: flex; flex-direcction: row; align-items: center; justify-content: space-around">
         <a href="https://www.linkedin.com/in/daniel-full-stack/" target="_blank" style="text-decoration: none, color: #000, float: left">
-            <img src="./assets/linkeding_png.png" height="40px" style="float: left; margin-right: 10px"/> 
+            <img src="./assets/linkeding_png.png" height="40px" style="float: left; margin-right: 20px"/> 
         </a>
         <a href="https://twitter.com/DanielO1384" target="_blank" style="text-decoration: none, color: #000, float: left">
-            <img src="./assets/twitter_png.png" height="40px" style="float: left; margin-right: 10px"/>
+            <img src="./assets/twitter_png.png" height="40px" style="float: left; margin-right: 20px"/>
         </a>
         <a href="https://wa.me/524761037311" target="_blank" style="text-decoration: none, color: #000, float: left">
-            <img src="./assets/wp_png.png" height="40px" style="float: left; margin-right: 10px"/>
+            <img src="./assets/wp_png.png" height="40px" style="float: left"/>
         </a>
     </div>
 </div>
