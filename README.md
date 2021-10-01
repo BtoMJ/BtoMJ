@@ -1,8 +1,8 @@
 <img src="./assets/head.jpg"/>
 <div style="padding: 20px 0">
     <h1> FULL STACK DEVELOPMENT </h1>
-    <p style="font-size: 20px"> Amante de la tecnología y el diseño, estoy en la última instancia de mi proceso Full Stack en Henry donde aprendo JavaScript, 
-    React / Redux, NodeJS, Sequelize, Express, algo de HTML y CSS </p>
+    <p style="font-size: 20px"> Amante de la tecnología y el diseño, estoy en la última instancia de mi proceso Full Stack en Henry donde aprendo <b>JavaScript </b>, 
+    <b>React</b> / <b>Redux</b>, <b>NodeJS</b>, <b>Sequelize</b>, <b>Express</b>, algo de HTML y CSS </p>
 </div>
 
 
