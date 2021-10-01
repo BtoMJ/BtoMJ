@@ -1,4 +1,6 @@
+<img src="./assets/head.jpg"/>
 <style type="text/css">
+
 .Red{
     float: left;
 }
@@ -7,7 +9,6 @@
 }
 
 </style>
-<img src="./assets/head.jpg"/>
 
 <div style="padding: 20px 0">
     <h1> FULL STACK DEVELOPMENT </h1>
