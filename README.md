@@ -1,5 +1,10 @@
-<img src="http://cdn26.us1.fansshare.com/photo/computerbackgrounds/programming-wallpaper-quotes-1830327007.jpg"/>
-Amante de la tecnología y el diseño, full stack en proceso en Henry donde aprendo JavaScript, React / Redux, NodeJS, Sequelize, Express, algo de HTML y CSS
+<img src="./assets/head.jpg"/>
+<div style="padding: 20px 0">
+    <h1> FULL STACK DEVELOPMENT </h1>
+    <p style="font-size: 20px"> Amante de la tecnología y el diseño, estoy en la última instancia de mi proceso Full Stack en Henry donde aprendo JavaScript, 
+    React / Redux, NodeJS, Sequelize, Express, algo de HTML y CSS </p>
+</div>
+
 
 ### Hi there 👋
 
