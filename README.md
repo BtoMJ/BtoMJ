@@ -9,9 +9,7 @@
 
 <div style="padding: 20px 0">
     <h1> ¿QUÉ ESTOY HACIENDO?</h1>
-    <p style="font-size: 20px"> En equipo estamos realizando un App para vender ticket de cine tanto de manera presencial como para ver en casa.</br>
-    De primera mano nos muestra un pequeño carrusel con películas relevantes y un catálogo de todo lo que hay disponible para ver.
-    En cuanto quede lista subiré el Repo para qye puedan darle un vistazo.</p>
+    <p style="font-size: 20px"> Ahora me encuentro actulizándome un poco en las tecnoologías que ya conozco y aprendiendo cosas nuevas, estoy haciendo un curso básico de Dart para seguir con Flutter para completar una ruta hacia el desarrollo para móviles.</p>
 </div>
 
 <div style="padding: 20px 0">
