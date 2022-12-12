@@ -9,7 +9,7 @@
 
 <div style="padding: 20px 0">
     <h1> ¿QUÉ ESTOY HACIENDO?</h1>
-    <p style="font-size: 20px"> Ahora me encuentro actulizándome un poco en las tecnoologías que ya conozco y aprendiendo cosas nuevas, estoy haciendo un curso básico de Dart para seguir con Flutter para completar una ruta hacia el desarrollo para móviles.</p>
+    <p style="font-size: 20px"> Ahora me encuentro actulizándome un poco en las tecnologías que ya conozco y aprendiendo cosas nuevas, estoy haciendo un curso básico de Dart para seguir con Flutter para completar una ruta hacia el desarrollo para móviles.</p>
 </div>
 
 <div style="padding: 20px 0">
